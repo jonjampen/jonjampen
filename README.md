@@ -1,11 +1,7 @@
 ### Hey there 👋
 I'm Jon Jampen, an 18-year-old hobby programmer.
 
-<!--
-**jonjampen/jonjampen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
--->
+<!-- **jonjampen/jonjampen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 - 🔭 I’m currently working on [Solar-Log Dashboard](https://github.com/jonjampen/solarlog-dashboard)
 - 📚 I’m currently learning Svelte
 - 🎓 This is my Matura Project: [Fatigue Diary](https://github.com/jonjampen/fatigue-diary)
