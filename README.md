@@ -6,19 +6,15 @@ I'm Jon Jampen, an 18-year-old hobby programmer.
 - 📚 I’m currently learning Svelte
 - 🎓 This is my Matura Project: [Fatigue Diary](https://github.com/jonjampen/fatigue-diary)
 
-## Get in touch
+### Get in touch
 E-Mail [jon.jampen@fatiguediary.ch](mailto:jon.jampen@fatiguediary.ch)
 <br>
 Instagram [@jon_jampen](https://www.instagram.com/jon_jampen)
 
-## Tech Stack
-<img src="https://img.shields.io/badge/-HTML-383838?logo=HTML5&logoColor=&style=for-the-badge" alt="badge"/> <img src="https://img.shields.io/badge/-CSS-383838?logo=CSS3&logoColor=1572B6&style=for-the-badge" alt="badge"/>
-<img src="https://img.shields.io/badge/-JavaScript-383838?logo=Javascript&logoColor=&style=for-the-badge" alt="badge"/>
-<img src="https://img.shields.io/badge/-PHP-383838?logo=PHP&logoColor=&style=for-the-badge" alt="badge"/>
-<img src="https://img.shields.io/badge/-Svelte-383838?logo=Svelte&logoColor=&style=for-the-badge" alt="badge"/>
-
-
-## :fire: My Stats :
-![Jon's GitHub stats](https://github-readme-stats.vercel.app/api?username=jonjampen&show_icons=true&theme=dark)
+### Tech Stack
+<img src="https://img.shields.io/badge/-HTML-1C1C1C?logo=HTML5&logoColor=&style=for-the-badge" alt="badge"/> <img src="https://img.shields.io/badge/-CSS-1C1C1C?logo=CSS3&logoColor=1572B6&style=for-the-badge" alt="badge"/>
+<img src="https://img.shields.io/badge/-JavaScript-1C1C1C?logo=Javascript&logoColor=&style=for-the-badge" alt="badge"/>
+<img src="https://img.shields.io/badge/-PHP-1C1C1C?logo=PHP&logoColor=&style=for-the-badge" alt="badge"/>
+<img src="https://img.shields.io/badge/-Svelte-1C1C1C?logo=Svelte&logoColor=&style=for-the-badge" alt="badge"/>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jonjampen&layout=compact)
