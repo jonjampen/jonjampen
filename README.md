@@ -12,7 +12,10 @@ E-Mail [jon.jampen@fatiguediary.ch](mailto:jon.jampen@fatiguediary.ch)
 Instagram [@jon_jampen](https://www.instagram.com/jon_jampen)
 
 ### Tech Stack
-<img src="https://img.shields.io/badge/-HTML-white?logo=HTML5&logoColor=red&style=for-the-badge" alt="badge"/>
+<img src="https://img.shields.io/badge/-HTML-383838?logo=HTML5&logoColor=&style=for-the-badge" alt="badge"/> <img src="https://img.shields.io/badge/-CSS-383838?logo=CSS3&logoColor=&style=for-the-badge" alt="badge"/>
+<img src="https://img.shields.io/badge/-HTML-383838?logo=HTML5&logoColor=&style=for-the-badge" alt="badge"/>
+<img src="https://img.shields.io/badge/-HTML-383838?logo=HTML5&logoColor=&style=for-the-badge" alt="badge"/>
+<img src="https://img.shields.io/badge/-HTML-383838?logo=HTML5&logoColor=&style=for-the-badge" alt="badge"/>
 
 
 ### :fire: My Stats :
