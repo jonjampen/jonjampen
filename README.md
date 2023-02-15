@@ -1,9 +1,9 @@
 ## Hey everyone! I'm Jon 👋
-<img src="programmer.svg" height="250px">
+<img src="programmer.svg" style="height: 250px">
 I'm Jon Jampen, an 18-year-old hobby programmer.
 
 <!-- **jonjampen/jonjampen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
-- 🔭 I’m currently working on [Solar-Log Dashboard](https://github.com/jonjampen/solarlog-dashboard)
+- 🔭 I’m currently working on ["Mountain Sunset" Theme for VS Code](https://github.com/jonjampen/mountain-sunset-vscode-theme)
 - 📚 I’m currently learning Svelte
 - 🎓 This is my Matura Project: [Fatigue Diary](https://github.com/jonjampen/fatigue-diary)
 
