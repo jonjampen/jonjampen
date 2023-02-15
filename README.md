@@ -7,12 +7,12 @@ I'm Jon Jampen, an 18-year-old hobby programmer.
 - 📚 I’m currently learning Svelte
 - 🎓 This is my Matura Project: [Fatigue Diary](https://github.com/jonjampen/fatigue-diary)
 
-### Get in touch
+### 📝 Get in touch
 E-Mail [jon.jampen@fatiguediary.ch](mailto:jon.jampen@fatiguediary.ch)
 <br>
 Instagram [@jon_jampen](https://www.instagram.com/jon_jampen)
 
-### Tech Stack
+### 👨‍💻 Tech Stack
 <img src="https://img.shields.io/badge/-HTML-1C1C1C?logo=HTML5&logoColor=&style=for-the-badge" alt="badge"/> <img src="https://img.shields.io/badge/-CSS-1C1C1C?logo=CSS3&logoColor=1572B6&style=for-the-badge" alt="badge"/>
 <img src="https://img.shields.io/badge/-JavaScript-1C1C1C?logo=Javascript&logoColor=&style=for-the-badge" alt="badge"/>
 <img src="https://img.shields.io/badge/-PHP-1C1C1C?logo=PHP&logoColor=&style=for-the-badge" alt="badge"/>
