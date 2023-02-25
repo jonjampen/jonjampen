@@ -21,4 +21,4 @@ Instagram [@jon_jampen](https://www.instagram.com/jon_jampen)
 <img src="https://img.shields.io/badge/-Git-1C1C1C?logo=Git&logoColor=&style=for-the-badge" alt="badge"/> <img src="https://img.shields.io/badge/-Figma-1C1C1C?logo=Figma&logoColor=&style=for-the-badge" alt="badge"/>
 <img src="https://img.shields.io/badge/-VS%20Code-1C1C1C?logo=Visual%20Studio%20Code&logoColor=007ACC&style=for-the-badge" alt="badge"/>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jonjampen&layout=compact)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jonjampen&layout=compact)
