@@ -1,8 +1,9 @@
+<!-- **jonjampen/jonjampen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
+
 ## Hey everyone! I'm Jon 👋
 I'm Jon Jampen, an 18-year-old hobby programmer.
 
-<!-- **jonjampen/jonjampen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
-- 🔭 I’m currently working on ["Mountain Sunset" Theme for VS Code](https://github.com/jonjampen/mountain-sunset-vscode-theme)
+- 🔭 I’m currently working on ["The Cyber Crusade" (Online Cardgame)](https://github.com/jonjampen/cyber-crusade)
 - 📚 I’m currently learning Svelte and Firebase
 - 🎓 This is my Matura Project: [Fatigue Diary](https://github.com/jonjampen/fatigue-diary)
 - 🌄 My VS Code-Theme: [Mountain Sunset](https://github.com/jonjampen/mountain-sunset-vscode-theme)
