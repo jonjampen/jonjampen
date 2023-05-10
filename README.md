@@ -1,6 +1,6 @@
 <!-- **jonjampen/jonjampen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
-## Hey, I'm Jon 👋
+## Hey! I'm Jon 👋
 I'm Jon Jampen, an 18-year-old hobby programmer.
 
 - 🔭 I’m currently working on ["The Cyber Crusade" (Online Cardgame)](https://github.com/jonjampen/cyber-crusade)
