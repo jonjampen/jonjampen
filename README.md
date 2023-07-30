@@ -11,7 +11,7 @@ I'm Jon Jampen, an 18-year-old hobby programmer.
 ## 📝 Get in touch
 E-Mail [jon.jampen@fatiguediary.ch](mailto:jon.jampen@fatiguediary.ch)
 
-Instagram [@jon_jampen](https://www.instagram.com/jon_jampen)
+Instagram [@jonjampen](https://www.instagram.com/jonjampen)
 
 ## 👨‍💻 Tech Stack
 <img src="https://img.shields.io/badge/-HTML-1C1C1C?logo=HTML5&logoColor=&style=for-the-badge" alt="badge"/> <img src="https://img.shields.io/badge/-CSS-1C1C1C?logo=CSS3&logoColor=1572B6&style=for-the-badge" alt="badge"/>
