@@ -4,7 +4,7 @@
 I'm Jon Jampen, an 18-year-old hobby programmer.
 
 - 🔭 I’m currently working on [Fatigue Diary](https://github.com/jonjampen/fatigue-diary)
-- 📚 I’m currently learning Next.js and React
+- 📚 I’m currently learning Next.js, React, and Tailwindcss
 - 🎓 This is my Matura Project: [Fatigue Diary](https://github.com/jonjampen/fatigue-diary)
 - 🌄 My VS Code-Theme: [Mountain Sunset](https://github.com/jonjampen/mountain-sunset-vscode-theme)
 
