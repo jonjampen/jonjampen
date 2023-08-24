@@ -1,8 +1,6 @@
 <!-- **jonjampen/jonjampen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
 ## Hey! I'm Jon 👋
-I'm Jon Jampen, an 18-year-old hobby programmer.
-
 - 🔭 I’m currently working on [Fatigue Diary](https://github.com/jonjampen/fatigue-diary)
 - 📚 I’m currently learning Next.js, React, and Tailwindcss
 - 🎓 This is my Matura Project: [Fatigue Diary](https://github.com/jonjampen/fatigue-diary)
