@@ -9,7 +9,7 @@ Check out my website: [jonjampen.ch](https://jonjampen.ch/)
 
 ## 📝 Get in touch
 - Website: [www.jonjampen.ch](https://jonjampen.ch/)
-- E-Mail: [hello@jonjampen.ch](mailto:hey@jonjampen.ch)
+- E-Mail: [hello@jonjampen.ch](mailto:hello@jonjampen.ch)
 - Instagram: [@jonjampen](https://www.instagram.com/jonjampen)
 
 ## 👨‍💻 Tech Stack
