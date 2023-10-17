@@ -3,7 +3,7 @@
 ## Hey! I'm Jon 👋
 Check out my website: [jonjampen.ch](https://jonjampen.ch/)
 - 🔭 I’m currently working on [Fatigue Diary](https://github.com/jonjampen/fatigue-diary)
-- 📚 I’m currently learning Next.js, React, and Tailwindcss
+- 📚 I’m currently learning React and Next.js
 - 🎓 This is my Matura Project: [Fatigue Diary](https://github.com/jonjampen/fatigue-diary)
 - 🌄 My VS Code-Theme: [Mountain Sunset](https://github.com/jonjampen/mountain-sunset-vscode-theme)
 
