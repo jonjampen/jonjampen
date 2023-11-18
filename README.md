@@ -18,6 +18,8 @@ Check out my website: [jonjampen.ch](https://jonjampen.ch/)
 <img src="https://img.shields.io/badge/-PHP-1C1C1C?logo=PHP&logoColor=&style=for-the-badge" alt="PHP"/>
 <img src="https://img.shields.io/badge/-Svelte-1C1C1C?logo=Svelte&logoColor=&style=for-the-badge" alt="Svelte"/>
 <img src="https://img.shields.io/badge/-TailwindCSS-1C1C1C?logo=TailwindCSS&logoColor=&style=for-the-badge" alt="Tailwind CSS"/>
+<img src="https://img.shields.io/badge/-React-1C1C1C?logo=React&logoColor=&style=for-the-badge" alt="React"/>
+<img src="https://img.shields.io/badge/-Next.Js-1C1C1C?logo=NextDotJs&logoColor=&style=for-the-badge" alt="Next.Js"/>
 
 <img src="https://img.shields.io/badge/-Git-1C1C1C?logo=Git&logoColor=&style=for-the-badge" alt="Git"/> <img src="https://img.shields.io/badge/-Figma-1C1C1C?logo=Figma&logoColor=&style=for-the-badge" alt="Figma"/>
 <img src="https://img.shields.io/badge/-VS%20Code-1C1C1C?logo=Visual%20Studio%20Code&logoColor=007ACC&style=for-the-badge" alt="Visual Studio Code"/>
