@@ -2,7 +2,6 @@
 
 ## Hey! I'm Jon 👋
 Check out my website: [jonjampen.ch](https://jonjampen.ch/)
-- 🎄 Check out my solutions to [Advent of Code](https://github.com/jonjampen/adventOfCode)
 - 🔭 I’m currently working on [Fatigue Diary](https://github.com/jonjampen/fatigue-diary)
 - 📚 I’m currently learning React and Next.js
 - 🎓 This is my Matura Project: [Fatigue Diary](https://github.com/jonjampen/fatigue-diary)
