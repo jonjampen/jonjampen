@@ -5,18 +5,18 @@
 
 <!-- - 📚 I'm currently learning React Native -->
 
-## My Projects
+### My Projects
 - 📝 Obsidian Plugin: [Xournal++ for Obsidian](https://obsidian.md/plugins?id=xournalpp) ([Code](https://github.com/jonjampen/obsidian-xournalpp))
 - 💤 An app for patients suffering from chronic fatigue syndrome: [Fatigue Diary](https://fatiguediary.ch) ([Code](https://github.com/jonjampen/fatiguediary))
 - 🌄 My VS Code-Theme: [Mountain Sunset](https://github.com/jonjampen/mountain-sunset-vscode-theme)
 [Other projects](https://jonjampen.ch/projects)
 
-## ✉️ Get in touch
+### ✉️ Get in touch
 - Website: [www.jonjampen.ch](https://jonjampen.ch/)
 - E-Mail: [hello@jonjampen.ch](mailto:hello@jonjampen.ch)
 - Instagram: [@jonjampen](https://www.instagram.com/jonjampen)
 
-## 👨‍💻 Tech Stack
+### 👨‍💻 Tech Stack
 <img src="https://img.shields.io/badge/-HTML-1C1C1C?logo=HTML5&logoColor=&style=for-the-badge" alt="HTML"/> <img src="https://img.shields.io/badge/-CSS-1C1C1C?logo=CSS3&logoColor=1572B6&style=for-the-badge" alt="CSS"/>
 <img src="https://img.shields.io/badge/-JavaScript-1C1C1C?logo=Javascript&logoColor=&style=for-the-badge" alt="JavaScript"/>
 <img src="https://img.shields.io/badge/-PHP-1C1C1C?logo=PHP&logoColor=&style=for-the-badge" alt="PHP"/>
