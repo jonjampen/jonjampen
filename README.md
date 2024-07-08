@@ -9,7 +9,7 @@
 - 📝 Obsidian Plugin: [Xournal++ for Obsidian](https://obsidian.md/plugins?id=xournalpp) ([Code](https://github.com/jonjampen/obsidian-xournalpp))
 - 💤 An app for patients suffering from chronic fatigue syndrome: [Fatigue Diary](https://fatiguediary.ch) ([Code](https://github.com/jonjampen/fatiguediary))
 - 🌄 My VS Code-Theme: [Mountain Sunset](https://github.com/jonjampen/mountain-sunset-vscode-theme)
-[Other projects](https://jonjampen.ch/projects)
+- 🔗 [More projects](https://jonjampen.ch/projects)
 
 ### ✉️ Get in touch
 - Website: [www.jonjampen.ch](https://jonjampen.ch/)
