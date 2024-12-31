@@ -1,7 +1,8 @@
 <!-- **jonjampen/jonjampen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
 ## Hey! I'm [Jon](https://jonjampen.ch) 👋
-I'm a Computer Science student 🎓
+I'm a Computer Science student 🎓 && coding enthusiast 🧑‍💻
+building websites || apps || plugins 🚀
 
 
 ### My Projects
@@ -13,11 +14,12 @@ I'm a Computer Science student 🎓
 ### ✉️ Get in touch
 - Website: [www.jonjampen.ch](https://jonjampen.ch/)
 - E-Mail: [hello@jonjampen.ch](mailto:hello@jonjampen.ch)
+- X: [@jonjampen](https://x.com/jonjampen)
 
 ### 👨‍💻 Tech Stack
 <img src="https://img.shields.io/badge/-HTML-1C1C1C?logo=HTML5&logoColor=&style=for-the-badge" alt="HTML"/> <img src="https://img.shields.io/badge/-CSS-1C1C1C?logo=CSS3&logoColor=1572B6&style=for-the-badge" alt="CSS"/>
 <img src="https://img.shields.io/badge/-JavaScript-1C1C1C?logo=Javascript&logoColor=&style=for-the-badge" alt="JavaScript"/>
-<img src="https://img.shields.io/badge/-PHP-1C1C1C?logo=PHP&logoColor=&style=for-the-badge" alt="PHP"/>
+<img src="https://img.shields.io/badge/-Java-1C1C1C?logo=openjdk&logoColor=&style=for-the-badge" alt="Java"/>
 <img src="https://img.shields.io/badge/-Svelte-1C1C1C?logo=Svelte&logoColor=&style=for-the-badge" alt="Svelte"/>
 <img src="https://img.shields.io/badge/-TailwindCSS-1C1C1C?logo=TailwindCSS&logoColor=&style=for-the-badge" alt="Tailwind CSS"/>
 <img src="https://img.shields.io/badge/-React-1C1C1C?logo=React&logoColor=&style=for-the-badge" alt="React"/>
