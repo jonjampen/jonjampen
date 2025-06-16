@@ -1,8 +1,7 @@
 <!-- **jonjampen/jonjampen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
 ## Hey! I'm [Jon](https://jonjampen.ch) 👋
-I'm a Computer Science student 🎓 && coding enthusiast 🧑‍💻
-building websites || apps || plugins 🚀
+I'm a Computer Science student building websites, apps, and plugins 🚀
 
 
 ### My Projects
@@ -12,9 +11,7 @@ building websites || apps || plugins 🚀
 - 🔗 [More projects](https://jonjampen.ch/projects)
 
 ### ✉️ Get in touch
-- Website: [www.jonjampen.ch](https://jonjampen.ch/)
 - E-Mail: [hello@jonjampen.ch](mailto:hello@jonjampen.ch)
-- X: [@jonjampen](https://x.com/jonjampen)
 
 ### 👨‍💻 Tech Stack
 <img src="https://img.shields.io/badge/-HTML-1C1C1C?logo=HTML5&logoColor=&style=for-the-badge" alt="HTML"/> <img src="https://img.shields.io/badge/-CSS-1C1C1C?logo=CSS3&logoColor=1572B6&style=for-the-badge" alt="CSS"/>
