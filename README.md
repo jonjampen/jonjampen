@@ -12,6 +12,7 @@ I'm a Computer Science student building websites, apps, and plugins 🚀
 
 ### ✉️ Get in touch
 - E-Mail: [hello@jonjampen.ch](mailto:hello@jonjampen.ch)
+- LinkedIn: [Jon Jampen](https://linkedin.com/in/jonjampen)
 
 ### 👨‍💻 Tech Stack
 <img src="https://img.shields.io/badge/-HTML-1C1C1C?logo=HTML5&logoColor=&style=for-the-badge" alt="HTML"/> <img src="https://img.shields.io/badge/-CSS-1C1C1C?logo=CSS3&logoColor=1572B6&style=for-the-badge" alt="CSS"/>
